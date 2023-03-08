@@ -2,4 +2,4 @@
 # Allow crawling of all content
 User-agent: *
 Disallow:
-Sitemap: https://getbootstrap.com/sitemap.xml
+Sitemap: https://dev-mccd-bootstrap-1.pantheonsite.io/sitemap.xml
