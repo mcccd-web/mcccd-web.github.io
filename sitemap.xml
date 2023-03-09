@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/about/overview/</loc>
+  </url>
+  <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/getting-started/accessibility/</loc>
   </url>
   <url>
@@ -11,6 +14,9 @@
   </url>
   <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/components/alerts/</loc>
+  </url>
+  <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/extend/approach/</loc>
   </url>
   <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/utilities/background/</loc>
@@ -28,10 +34,22 @@
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/</loc>
   </url>
   <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/getting-started/parcel/</loc>
+  </url>
+  <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/getting-started/vite/</loc>
+  </url>
+  <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/getting-started/webpack/</loc>
+  </url>
+  <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/utilities/borders/</loc>
   </url>
   <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/examples/navbar-bottom/</loc>
+  </url>
+  <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/about/brand/</loc>
   </url>
   <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/components/breadcrumb/</loc>
@@ -97,7 +115,16 @@
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/layout/containers/</loc>
   </url>
   <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/getting-started/contents/</loc>
+  </url>
+  <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/getting-started/contribute/</loc>
+  </url>
+  <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/examples/cover/</loc>
+  </url>
+  <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/layout/css-grid/</loc>
   </url>
   <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/customize/css-variables/</loc>
@@ -110,6 +137,9 @@
   </url>
   <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/utilities/display/</loc>
+  </url>
+  <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/getting-started/download/</loc>
   </url>
   <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/components/dropdowns/</loc>
@@ -166,6 +196,9 @@
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/examples/heroes/</loc>
   </url>
   <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/extend/icons/</loc>
+  </url>
+  <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/content/images/</loc>
   </url>
   <url>
@@ -175,10 +208,16 @@
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/utilities/interactions/</loc>
   </url>
   <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/getting-started/javascript/</loc>
+  </url>
+  <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/examples/jumbotron/</loc>
   </url>
   <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/forms/layout/</loc>
+  </url>
+  <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/about/license/</loc>
   </url>
   <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/components/list-group/</loc>
@@ -188,6 +227,9 @@
   </url>
   <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/examples/masonry/</loc>
+  </url>
+  <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/migration/</loc>
   </url>
   <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/components/modal/</loc>
@@ -215,6 +257,12 @@
   </url>
   <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/utilities/opacity/</loc>
+  </url>
+  <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/customize/optimize/</loc>
+  </url>
+  <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/customize/options/</loc>
   </url>
   <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/utilities/overflow/</loc>
@@ -254,6 +302,12 @@
   </url>
   <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/getting-started/rfs/</loc>
+  </url>
+  <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/getting-started/rtl/</loc>
+  </url>
+  <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/customize/sass/</loc>
   </url>
   <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/components/scrollspy/</loc>
@@ -298,6 +352,9 @@
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/content/tables/</loc>
   </url>
   <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/about/team/</loc>
+  </url>
+  <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/utilities/text/</loc>
   </url>
   <url>
@@ -311,6 +368,9 @@
   </url>
   <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/examples/navbar-static/</loc>
+  </url>
+  <url>
+    <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/about/translations/</loc>
   </url>
   <url>
     <loc>https://dev-mccd-bootstrap-1.pantheonsite.io/docs/5.2/content/typography/</loc>
